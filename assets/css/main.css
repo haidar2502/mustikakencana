@@ -295,8 +295,8 @@ p {
   color: #fff;
   border-radius: 5px;
   position: fixed;
-  bottom: 30px;
-  right: 30px;
+  bottom: 40px;
+  right: 110px;
   z-index: 9;
   cursor: pointer;
   -webkit-transition: all 0.3s ease-out 0s;
